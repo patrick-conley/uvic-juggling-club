@@ -1,0 +1,263 @@
+/*
+ * Global styles
+ */
+
+body {
+   background-color: #DDFF88;
+   font-family:      'Times', sans-serif;
+   font-size:        medium;
+   line-height:      1.5;
+}
+
+body img { border: 0; }
+
+a:link {
+  color:             #002288;
+  text-decoration:   none;
+}
+a:visited {
+   color:            #220088;
+   text-decoration:  none;
+}
+a:hover { 
+   color: #333333; 
+   text-decoration:  underline;
+}
+
+/*
+ * div ids
+ */
+
+#wrapper {
+   display:          block;
+   margin:           0 auto;
+   max-width:        1000px;
+}
+
+#topcontent {
+   background-color: white;
+   margin:           1em 0em;
+   min-height:           125px;
+}
+
+div.banner-topcontent {
+   border:           0.5em solid white;
+   padding:          0.5em;
+   margin:           1em;
+   text-align:       center;
+   max-height:       250px;
+   border-radius:    15px;
+}
+
+#leftcontent {
+   width:            10em;
+   float:            left;
+}
+
+#news {
+   background-color: white;
+   padding:          0.5em;
+   margin-right:     1em;
+}
+
+#rightcontent {
+   width:            10em;
+   padding:          0em 0.5em;
+   float:            right;
+   background-color: white;
+   border:           2px solid #333333;
+   font-family:      sans-serif;
+   font-size:        small;
+}
+
+#maincontent {
+   margin-left:      10em;
+   margin-right:     10em;
+   background-color: white;
+   border:           2px solid #333333;
+   padding:          0.5em;
+}
+
+#announcement {
+   margin:           1em; 
+   border:           2px solid black;
+   background-color: #DDFF88;
+   margin-bottom:    1em;
+}
+
+#body {
+   background-color: white;
+}
+
+#bottomcontent {
+   bottom:           10px;
+   font-size:        80%;
+   text-align:       center;
+}
+
+/*
+ * Headers
+ */
+
+#topcontent h1 {
+   text-align:       center;
+   font-size:        33px;
+   padding-top:       1em;
+}
+
+#topcontent h2 {
+   text-align:       center;
+}
+
+ /* #topcontent img { */
+ /*    vertical-align:   middle; */
+ /*    text-align:       right; */
+ /* } */
+
+#rightcontent h2 {
+   text-align:       center;
+   background-color: #FFDD88;
+   margin-top:       0;
+}
+
+#maincontent h2 {
+   text-align:       left;
+   font-size:        150%;
+   background-color: #FFDD88;
+   margin-top:       0;
+   padding-left:     0.25em;
+}
+
+#news h3 { 
+   margin:           0; 
+   background-color: #FFDD88;
+}
+
+/*
+ * Lists of page links
+ */
+
+#leftcontent img {
+   vertical-align:   middle;
+   padding-right:    0.25em;
+}
+
+#leftcontent span {
+   background-color: #FFDD88;
+   font-variant:     small-caps;
+   font-weight:      bold;
+   border-bottom:    2px solid #DDFF88;
+   padding:          0.2em 0.5em;
+   text-align:       left;
+   display:          block;
+   border-radius:    8px 0px 0px 8px;
+}
+
+span.linklist {
+   background-color: #FFDD88;
+
+   font-variant:     small-caps;
+   font-weight:      bold;
+   text-align:       center;
+}
+
+span.vertical_linklist {
+   border-bottom:    2px solid #DDFF88;
+   padding:          0.2em 0.5em;
+   text-align:       left;
+   display:          block;
+}
+
+span.horizontal_linklist {
+}
+
+div#horizontal_linklist {
+   margin-bottom:    1.5em;
+}
+
+/*
+ * Text
+ */
+
+p { margin-left: 2%; }
+
+#leftcontent #news p {
+   font-size:        small;
+}
+
+/*
+ * Lists & Tables
+ */
+
+#body ul.two-column, ol.two-column {
+   float:            left;
+   min-width:        300px;
+}
+
+#body .two-column li {
+   float:            left;
+   list-style-position: outside;
+   min-width:        200px;
+}
+
+#body dt {
+   font-weight:      bold;
+   padding-top:      0.5em;
+}
+
+#rightcontent dt {
+   text-indent:      -1em;
+   margin-left:      1em;
+}
+
+#body table th {
+   font-weight:      bold;
+   text-align:       right;
+   vertical-align:   top;
+}
+
+#body table.horizontal th {
+   font-weight:      bold;
+   text-align:       left;
+   vertical-align:   bottom;
+}
+
+#body table.vertical th {
+   font-weight:      bold;
+   text-align:       right;
+   vertical-align:   top;
+   padding-right:    0.5em;
+}
+
+#body table.horizontal td {
+   text-align:       left;
+   vertical-align:   top;
+}
+
+/*
+ * Images
+ */
+
+#body img.floating_image, iframe.floating_image {
+   padding:          1.5%;
+   margin:           1%;
+   border:           1px solid black;
+   width:            350px;
+   max-width:        95%;
+   float:            right;
+}
+
+img.banner_image {
+   width:            100%;
+}
+
+div.banner_image {
+   width:            95%;
+   padding:          0.5em 1% 0.5em 1%;
+   margin:           0.5em 1.5% 0em 1.5%;
+   border:           2px solid #002288;
+}
+
+div.banner_image:hover {
+   border-color:     #333333;
+}

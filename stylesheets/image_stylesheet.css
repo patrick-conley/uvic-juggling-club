@@ -1,0 +1,133 @@
+/* The classes in this file are meant for displaying groups of images: a
+ * column of a table as in events.php, along with classes meant exclusively for
+ * photos.php
+ * Other images should be displayed with the floating_image classes in
+ * stylesheet.css
+ */
+
+
+/*
+ * General class for tables with a column of images
+ */
+
+#body table.image_table h3 {
+   margin-top:       0.5em;
+}
+
+#body table.image_table td {
+   vertical-align:   top;
+}
+
+#body table.image_table img {
+   border:           0;
+   margin:           0;
+   padding:          0;
+   width:            100%;
+ /*    max-width:        450px; */
+}
+
+#body table.image_table object {
+   width:            100%;
+   max-width:        320px;
+}
+
+#body td.image_column {
+   width:        30%;
+}
+
+/* 
+ * Class intended for the index of photos.php; it's for a table containing only
+ * images (with caption in the same table element)
+ */
+
+#body div.photo_index_item {
+   float:            left;
+   text-align:       center;
+   width:            200px;
+   height:           350px;
+   margin:           0.5em;
+}
+
+#body div.photo_index_item img {
+   max-width:        200px;
+   max-height:       150px;
+}
+
+#body div.photo_index_item p {
+   font-size:        small;
+}
+
+#body div.photo_index_item h3 {
+   height:           2em;
+}
+
+#body div.album_index_item {
+   float:            left;
+   text-align:       center;
+   width:            165px;
+   height:           145px;
+   margin:           0.5em auto;
+}
+
+#body div.album_index_item img {
+   max-width:        145.5px;
+   max-height:       125px;
+   padding:          5px;
+   border:           1px solid #444444;
+}
+
+#body table.photo_index {
+   text-align:       center;
+   width:            100%;
+}
+
+#body table.photo_index td.index {
+   vertical-align:   top;
+   padding:          10px 0px;
+   width:            33%;
+}
+
+#body table.photo_index td.album {
+   padding:           10px;
+}
+
+#body table.photo_index img.index {
+   max-width:        100%;
+   max-height:       200px;
+}
+
+#body table.photo_index img.album {
+   max-height:       150px;
+   max-width:        175px;
+   padding:          5px;
+   border:           1px solid #444444;
+}
+
+/* Class to show a single photo
+ */
+
+#body div#photo {
+   text-align:       center;
+   min-height:       600px;
+}
+
+#body div#photo p {
+   font-size:        80%;
+}
+
+#body img.photo {
+   margin-left:      10%;
+   margin-right:     10%;
+   max-height:       550px;
+   max-width:        90%;
+   padding:          5px;
+   border:           1px solid #444444;
+   margin:           0.5em;
+}
+
+#body div#photo table.header {
+   margin-left:      auto;
+   margin-right:     auto;
+   width:            30%;
+   font-weight:      bold;
+}
