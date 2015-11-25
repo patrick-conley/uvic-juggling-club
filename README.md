@@ -1,4 +1,5 @@
 UVic Juggling Club
+==================
 
 Repo for http://web.uvic.ca/~juggling/
 
