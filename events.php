@@ -37,7 +37,25 @@
 
             <table class="image_table">
                <tr> <td>
-                     <h3>Victoria Juggling Festival 2014</h3>
+                     <h3>Victoria Juggling Festival 2016</h3>
+
+                     <table class="vertical">
+                        <tr> <th>Date</th> <td>Friday through Sunday, February 12-14</td> </tr>
+                        <tr> <th>Locations</th> <td>UVic CARSA building<br>
+                              Esquimalt High theatre</td> </tr>
+                        <tr> <th>Events</th> <td>Friday: renegade show @ UVic<br>
+                              Saturday: public show @ Esquimalt theatre<br>
+                              daytimes: workshops &amp; open juggling @ UVic</td> </tr>
+                     </table>
+                  </td>
+               </tr>
+            </table>
+
+            <h2>Previous club events</h2>
+
+            <table class="image_table">
+               <tr> <td>
+                     <h3><a href="events/vjf2014/index.php">Victoria Juggling Festival 2014</a></h3>
 
                      <table class="vertical">
                         <tr> <th>Date</th> <td>Friday through Sunday, January 24-26, 2014</td> </tr>
@@ -54,12 +72,6 @@
                   <td class="image_column">
                      <img src="events/vjf2014/poster.png" alt="VJF2014 poster">
                </td> </tr>
-               </table>
-
-
-            <h2>Previous club events</h2>
-
-            <table class="image_table">
                <tr> <td>
                      <h3><a href="events/vjf2013/index.php">Victoria Juggling Festival 2013</a></h3>
 

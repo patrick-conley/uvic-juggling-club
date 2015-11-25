@@ -34,6 +34,8 @@
             <!-- BODY -->
             <h2>About the festival</h2>
 
+               <iframe src="https://www.youtube.com/embed/elYNulAclFM?rel=0" frameborder="0" allowfullscreen></iframe>
+
             <p>
             The <strong>9th "kind of annual" Victoria Juggling and Flow
             Festival</strong>, hosted by the UVic Juggling Club, is here, and
