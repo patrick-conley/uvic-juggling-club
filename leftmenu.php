@@ -1,17 +1,5 @@
-<div id="nav">
-
-   <a href="./index.php"><span>About the club</span></a>
-   <a href="./festival/"><span>Festival</span></a>
-   <a href="./photos.php"><span>Photos</span></a>
-   <a href="./events.php"><span>Events</span></a>
-   <a href="./contact.php"><span>Contact</span></a>
-   <a href="https://www.facebook.com/groups/53251997026/">
-      <span>
-         <img width=24 src="images/f_logo.png" title="Facebook link">Facebook group
-      </span>
-   </a>
-</div>
-
 <div id="news">
-   <?php include("newsitem.php"); ?>
+   <a class="twitter-timeline" href="https://twitter.com/UVicJuggling" data-widget-id="645027638046658560">Tweets by @UVicJuggling</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
 </div>
