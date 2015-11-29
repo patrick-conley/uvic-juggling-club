@@ -7,10 +7,10 @@
    <head>
       <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
       <meta http-equiv="Content-Style-Type" content="text/css">
-      <link rel="stylesheet" type="text/css" href="stylesheet.css">
+      <link rel="stylesheet" type="text/css" href="./stylesheet.css">
       <link rel="shortcut icon" href="http://web.uvic.ca/~juggling/images/favicon.ico">
 
-      <title>VJFF 2016</title>
+      <title>Show | VJFF 2016</title>
    </head>
 
    <body>
@@ -32,30 +32,36 @@
          <div id="maincontent">
 
             <!-- BODY -->
-            <h2>About the festival</h2>
+            <h2>Public show</h2>
 
-               <iframe src="https://www.youtube.com/embed/elYNulAclFM?rel=0" frameborder="0" allowfullscreen></iframe>
+            Got an act to show us? <a href="https://docs.google.com/forms/d/14pWjF9sGB0Wjx6OyWHOdj9BRl1ldQ9vpposK_R-szl8/viewform">Apply now!</a>
 
-            <p>
-            The <strong>9th "kind of annual" Victoria Juggling and Flow
-            Festival</strong>, hosted by the UVic Juggling Club, is here, and
-            will be as spectacular a showcase of juggling and object
-            manipulation as in previous years.
-            </p>
+            <hr>
 
             <p>
-            The festival will include <s>two</s> <em>three</em> and a half days of workshops, from
-            introductory to advanced levels; a renegade show, and a
-            not-to-be-missed gala show. 
-            </p>
+            The show will be on Saturday night, the 13th, at the Esquimalt
+            High School Theatre starting at 8pm (doors open 7:30).
 
             <p>
-            The festival is planned for the 12th to 14th February, 2016. Watch this space for updates.
+            Be warned that the show is likely to sell out at the door. We
+            recommend that you buy tickets in advance, either at the festival
+            entrance or <a href="tickets.php">online</a>.
 
             <p>
-            <a href="mailto:juggling@uvic.ca">Contact the club</a> for more
-            information about anything at all.
-            </p>
+             <table>
+               <tr>
+                  <td width="250px">Adults</td>
+                  <td>$20</td>
+               </tr>
+               <tr>
+                  <td>Students/Seniors/Youth</td>
+                  <td>$15</td>
+               </tr>
+               <tr>
+                  <td>With full pass</td>
+                  <td>Free</td>
+               </tr>
+            </table> 
 
          </div>
 

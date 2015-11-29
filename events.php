@@ -41,7 +41,7 @@
 
                      <table class="vertical">
                         <tr> <th>Date</th> <td>Friday through Sunday, February 12-14</td> </tr>
-                        <tr> <th>Locations</th> <td>UVic CARSA building<br>
+                        <tr> <th>Locations</th> <td>UVic McKinnon Gym<br>
                               Esquimalt High theatre</td> </tr>
                         <tr> <th>Events</th> <td>Friday: renegade show @ UVic<br>
                               Saturday: public show @ Esquimalt theatre<br>

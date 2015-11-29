@@ -8,9 +8,10 @@
       <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
       <meta http-equiv="Content-Style-Type" content="text/css">
       <link rel="stylesheet" type="text/css" href="stylesheet.css">
+      <link rel="stylesheet" type="text/css" href="./schedule.css">
       <link rel="shortcut icon" href="http://web.uvic.ca/~juggling/images/favicon.ico">
 
-      <title>VJFF 2016</title>
+      <title>Workshops | VJFF 2016</title>
    </head>
 
    <body>
@@ -32,36 +33,10 @@
          <div id="maincontent">
 
             <!-- BODY -->
-            <h2>About the festival</h2>
+            <h2>Workshops</h2>
 
-               <iframe src="https://www.youtube.com/embed/elYNulAclFM?rel=0" frameborder="0" allowfullscreen></iframe>
+            Got an itch to teach some tricks?  <a href="https://docs.google.com/forms/d/1N7xq_MWP-OlGzUZWL0eFtHoNQfgBZ7b07QFXK-rGU00/viewform">Apply now!</a>
 
-            <p>
-            The <strong>9th "kind of annual" Victoria Juggling and Flow
-            Festival</strong>, hosted by the UVic Juggling Club, is here, and
-            will be as spectacular a showcase of juggling and object
-            manipulation as in previous years.
-            </p>
-
-            <p>
-            The festival will include <s>two</s> <em>three</em> and a half days of workshops, from
-            introductory to advanced levels; a renegade show, and a
-            not-to-be-missed gala show. 
-            </p>
-
-            <p>
-            The festival is planned for the 12th to 14th February, 2016. Watch this space for updates.
-
-            <p>
-            <a href="mailto:juggling@uvic.ca">Contact the club</a> for more
-            information about anything at all.
-            </p>
-
-         </div>
-
-         <!-- right content -->
-         <div id="rightcontent">
-            <?php include("rightmenu.php"); ?>
          </div>
 
       </div>

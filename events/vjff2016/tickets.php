@@ -10,7 +10,7 @@
       <link rel="stylesheet" type="text/css" href="./stylesheet.css">
       <link rel="shortcut icon" href="http://web.uvic.ca/~juggling/images/favicon.ico">
 
-      <title>Tickets | UVic Juggling Club</title>
+      <title>Tickets | VJFF 2016</title>
    </head>
 
    <body>
