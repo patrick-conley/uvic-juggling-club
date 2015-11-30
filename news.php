@@ -1,4 +1,7 @@
 <?php
 include("functions/load_page.php");
-(new Page())->set_file("news.php")->set_title("News archive")->render();
+$page = new Page();
+$page->set_file("news.php");
+$page->set_title("News archive");
+$page->render();
 ?>

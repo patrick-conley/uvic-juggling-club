@@ -1,4 +1,7 @@
 <?php
 include("functions/load_page.php");
-(new Page())->set_file("contact.php")->set_title("Contact information")->render();
+$page = new Page();
+$page->set_file("contact.php");
+$page->set_title("Contact information");
+$page->render();
 ?>

@@ -1,4 +1,8 @@
 <?php
 include("functions/load_page.php");
-(new Page())->set_file("photos.php")->set_title("Photos")->add_stylesheet("photos/main.css")->render();
+$page = new Page();
+$page->set_file("photos.php");
+$page->set_title("Photos");
+$page->add_stylesheet("photos/main.css");
+$page->render();
 ?>
