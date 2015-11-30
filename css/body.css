@@ -1,14 +1,8 @@
-#body {
-   position:         relative;
-   margin-top:       1em;
-   width:            100%;
-}
+@import "nav.css";
 
 #centrecontent {
    position:         relative;
-   min-height:       920px;
    margin-left:      20em;
-   margin-right:     10em;
 }
 
 #maincontent {

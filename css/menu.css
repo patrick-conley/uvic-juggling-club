@@ -1,4 +1,6 @@
-#leftcontent {
+@import "links.css";
+
+#menu {
    position:         absolute;
    top:              0;
    width:            20em;
@@ -7,23 +9,24 @@
 #news {
    margin-bottom:    1em;
    margin-right:     1em;
+   height:           600px;
    padding:          0.5em;
 
    background-color: white;
 }
 
-#news h3 { 
-   margin:           0; 
+#news h3 {
+   margin:           0;
    background-color: #FFDD88;
 }
 
-#leftcontent #news p {
+#menu #news p {
    font-size:        small;
 }
 
 /* Mobile devices */
 @media screen and (max-device-width: 720px ) {
-   #leftcontent {
+   #menu {
       position:      static;
       width:         100%;
    }

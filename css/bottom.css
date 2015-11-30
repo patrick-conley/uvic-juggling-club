@@ -1,4 +1,10 @@
 #bottomcontent {
+   padding-top:      1em;
    font-size:        80%;
    text-align:       center;
+   clear: left;
+}
+
+img {
+   float: right;
 }

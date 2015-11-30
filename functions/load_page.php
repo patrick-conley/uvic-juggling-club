@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 class Page {
 
@@ -24,7 +24,7 @@ class Page {
 
       if ($this->page_title !== "") {
          $this->page_title .= " | ";
-      } 
+      }
 
       return $this;
    }
@@ -84,31 +84,27 @@ class Page {
 
       <div id="body">
 
-         <div id="leftcontent">
-            <?php include("leftmenu.php"); ?>
-         </div>
-
          <div id="centrecontent">
             <div id="nav">
                <?php include("nav.php"); ?>
             </div>
 
             <div id="maincontent">
-               <?php 
+               <?php
                   if ($this->body_file === "") {
                      if ($this->body_text !== "") {
                         echo $this->body_text;
                      }
                   } else {
-                     include("content/$this->body_file"); 
+                     include("content/$this->body_file");
                   }
                ?>
             </div>
 
          </div>
 
-         <div id="rightcontent">
-            <?php include("rightmenu.php"); ?>
+         <div id="menu">
+            <?php include("menu.php"); ?>
          </div>
 
          <div id="bottomcontent">
@@ -119,7 +115,7 @@ class Page {
 
    </body>
 </html>
-<?php 
+<?php
    }
 }
 ?>

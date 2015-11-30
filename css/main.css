@@ -1,8 +1,6 @@
 @import "banner.css";
 @import "body.css";
-@import "left.css";
-@import "right.css";
-@import "nav.css";
+@import "menu.css";
 @import "bottom.css";
 @import "photos.css";
 
@@ -27,9 +25,16 @@ a:visited {
    color:            #220088;
    text-decoration:  none;
 }
-a:hover { 
-   color: #333333; 
+a:hover {
+   color: #333333;
    text-decoration:  underline;
 }
 
 p { margin-left: 2%; }
+
+#body {
+   position:         relative;
+   margin-top:       1em;
+   width:            100%;
+}
+

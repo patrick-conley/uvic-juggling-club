@@ -1,26 +1,31 @@
-#rightcontent {
-   position:         absolute;
-   top:              0;
-   right:            0em;
-   width:            10em;
-   border:           2px solid #333333;
-   padding:          0 0.5em;
+#links {
+   width:            18em;
+   padding:          0.5em;
 
    background-color: white;
    font-family:      sans-serif;
-   font-size:        small;
+   line-height:      1.25em;
 }
 
-#rightcontent h2 {
+#links h2 {
    margin-top:       0;
 
    text-align:       center;
    background-color: #FFDD88;
+   font-size:        small;
+}
+
+#links a {
+   font-size:        small;
+}
+
+#links h3 {
+   font-size:        medium;
 }
 
 /* Mobile devices */
 @media screen and (max-device-width: 720px ) {
-   #rightcontent {
+   #links {
       position:      static;
       margin-top:    1em;
       width:         auto;
