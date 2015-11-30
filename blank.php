@@ -1,4 +1,4 @@
 <?php
 include("functions/load_page.php");
-loadPage("blank.php", "blank page");
+(new Page())->set_file("blank.php")->set_title("blank page")->render();
 ?>

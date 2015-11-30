@@ -4,8 +4,6 @@
 <a href="./events.php"><span>Events</span></a>
 <a href="./contact.php"><span>Contact</span></a>
 <a href="https://www.facebook.com/groups/53251997026/">
-   <span>
-      <img width=24 src="images/f_logo.png" title="Facebook link">Facebook group
-   </span>
+      <img width=24 src="images/f_logo.png" title="Facebook link">
 </a>
 

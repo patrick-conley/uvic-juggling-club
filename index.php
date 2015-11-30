@@ -1,4 +1,4 @@
 <?php
 include("functions/load_page.php");
-loadPage("index.php", "");
+(new Page())->set_file("index.php")->render();
 ?>

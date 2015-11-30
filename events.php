@@ -1,4 +1,4 @@
 <?php
 include("functions/load_page.php");
-loadPage("events.php", "Club events");
+(new Page())->set_file("events.php")->set_title("Club events")->render();
 ?>

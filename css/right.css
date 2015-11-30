@@ -1,0 +1,28 @@
+#rightcontent {
+   position:         absolute;
+   top:              0;
+   right:            0em;
+   width:            10em;
+   border:           2px solid #333333;
+   padding:          0 0.5em;
+
+   background-color: white;
+   font-family:      sans-serif;
+   font-size:        small;
+}
+
+#rightcontent h2 {
+   margin-top:       0;
+
+   text-align:       center;
+   background-color: #FFDD88;
+}
+
+/* Mobile devices */
+@media screen and (max-device-width: 720px ) {
+   #rightcontent {
+      position:      static;
+      margin-top:    1em;
+      width:         auto;
+   }
+}

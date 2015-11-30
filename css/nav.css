@@ -1,0 +1,28 @@
+#nav {
+   margin-top:       1em;
+   margin-bottom:    1em;
+   width:            100%;
+}
+
+#nav img {
+   vertical-align:   middle;
+   padding-right:    0.25em;
+}
+
+#nav span {
+   padding:          0.5em 1em;
+   border-bottom:    2px solid #DDFF88;
+
+   background-color: #FFDD88;
+   font-variant:     small-caps;
+   font-weight:      bold;
+   text-align:       left;
+}
+
+/* Mobile devices */
+@media screen and (max-device-width: 720px ) {
+   #nav span {
+      border-radius: 8px;
+      text-align:    center;
+   }
+}

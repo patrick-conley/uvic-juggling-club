@@ -1,4 +1,4 @@
 <?php
 include("functions/load_page.php");
-loadPage("links.php", "Links");
+(new Page())->set_file("links.php")->set_title("Links");
 ?>

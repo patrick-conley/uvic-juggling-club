@@ -1,4 +1,4 @@
 <?php
 include("functions/load_page.php");
-loadPage("news.php", "News archive");
+(new Page())->set_file("news.php")->set_title("News archive")->render();
 ?>

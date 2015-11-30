@@ -1,0 +1,34 @@
+#leftcontent {
+   position:         absolute;
+   top:              0;
+   width:            20em;
+}
+
+#news {
+   margin-bottom:    1em;
+   margin-right:     1em;
+   padding:          0.5em;
+
+   background-color: white;
+}
+
+#news h3 { 
+   margin:           0; 
+   background-color: #FFDD88;
+}
+
+#leftcontent #news p {
+   font-size:        small;
+}
+
+/* Mobile devices */
+@media screen and (max-device-width: 720px ) {
+   #leftcontent {
+      position:      static;
+      width:         100%;
+   }
+
+   #news {
+      margin-right:  0;
+   }
+}
