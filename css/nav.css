@@ -1,22 +1,33 @@
 #nav {
    margin-top:       1em;
-   margin-bottom:    1em;
    width:            100%;
 }
 
+#nav ul {
+   padding-left:     0;
+
+   line-height:      1;
+   list-style:       none;
+   display:          inline;
+}
+
+#nav ul li {
+   display:          inline-block;
+}
+
 #nav img {
+   margin-top:       0.25em;
    vertical-align:   middle;
-   padding-right:    0.25em;
+   float:            right;
 }
 
 #nav span {
    padding:          0.5em 1em;
-   border-bottom:    2px solid #DDFF88;
 
+   display:          table-cell;
    background-color: #FFDD88;
    font-variant:     small-caps;
    font-weight:      bold;
-   text-align:       left;
 }
 
 /* Mobile devices */
