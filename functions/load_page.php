@@ -84,11 +84,13 @@ class Page {
 
       <div id="body">
 
-         <div id="centrecontent">
+         <div class="menu left">
             <div id="nav">
                <?php include("nav.php"); ?>
             </div>
+         </div>
 
+         <div id="centrecontent">
             <div id="maincontent">
                <?php
                   if ($this->body_file === "") {
@@ -100,11 +102,11 @@ class Page {
                   }
                ?>
             </div>
-
          </div>
 
-         <div id="menu">
-            <?php include("menu.php"); ?>
+         <div class="menu right">
+            <?php include("newsbar.php"); ?>
+            <?php // include("linkbar.php"); ?>
          </div>
 
          <div id="bottomcontent">
