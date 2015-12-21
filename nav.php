@@ -1,5 +1,5 @@
 <ul>
-   <li><a href="./index.php"><span>About the club</span></a></li>
+   <li><a href="./index.php"><span>About us</span></a></li>
    <li><a href="./festival/"><span>Festival</span></a></li>
    <li><a href="./photos.php"><span>Photos</span></a></li>
    <li><a href="./events.php"><span>Events</span></a></li>

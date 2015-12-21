@@ -2,6 +2,10 @@
  * Navigation links
  */
 
+.menu.left {
+   width:            6em;
+}
+
 #nav {
    margin-top:       1em;
    margin-bottom:    1em;
@@ -20,21 +24,20 @@
    display:          inline-block;
 }
 
-#nav img {
-   margin-top:       0.25em;
-   margin-right:     1em;
-   vertical-align:   middle;
-   float:            right;
-}
-
 #nav span {
-   width:            10em; /* set for nav in menu */
+   width:            6em; /* set for nav in menu */
    padding:          0.5em 1em;
 
    display:          table-cell;
    background-color: #FFDD88;
    font-variant:     small-caps;
    font-weight:      bold;
+}
+
+#nav img {
+   margin-right:     0.5em;
+   vertical-align:   middle;
+   float:            right;
 }
 
 /* Mobile devices */
