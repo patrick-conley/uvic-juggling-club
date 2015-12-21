@@ -9,11 +9,6 @@
    top:              0;
 }
 
-.menu.right {
-   right:            0;
-   width:            20em;
-}
-
 #news {
    margin-bottom:    1em;
    margin-left:      1em; /* left for news in right menu */
@@ -36,10 +31,6 @@
 @media screen and (max-device-width: 720px ) {
    .menu {
       position:      static;
-      width:         100%;
-   }
-
-   #div.menu.right {
       width:         100%;
    }
 

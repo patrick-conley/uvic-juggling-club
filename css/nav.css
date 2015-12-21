@@ -2,10 +2,6 @@
  * Navigation links
  */
 
-.menu.left {
-   width:            6em;
-}
-
 #nav {
    margin-top:       1em;
    margin-bottom:    1em;
@@ -42,14 +38,6 @@
 
 /* Mobile devices */
 @media screen and (max-device-width: 720px ) {
-   div.menu.left {
-      width:         100%;
-   }
-
-   div.menu.right {
-      width:         100%;
-   }
-
    #nav ul li {
       display:       list-item;
       margin-bottom: 0.5em;

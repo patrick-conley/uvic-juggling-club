@@ -38,3 +38,38 @@ p { margin-left: 2%; }
    width:            100%;
 }
 
+.menu.left {
+   width:            6em;
+}
+
+.menu.right {
+   right:            0;
+   width:            20em;
+}
+
+#centrecontent {
+   position:         relative;
+   margin-left:      6em;
+   margin-right:     20em;
+}
+
+/* Mobile devices */
+@media screen and (max-device-width: 720px ) {
+   div.menu.left {
+      width:         100%;
+   }
+
+   div.menu.right {
+      width:         100%;
+   }
+
+   div.menu.right {
+      width:         100%;
+   }
+
+   #centrecontent {
+      width:         auto;
+      margin:        0;
+   }
+
+}
