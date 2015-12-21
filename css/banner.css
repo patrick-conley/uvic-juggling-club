@@ -1,0 +1,40 @@
+#topcontent {
+   position:         relative;
+   height:           8em;
+
+   background-color: white;
+   line-height:      8em;
+}
+
+#banner-topcontent {
+   position:         relative;
+   border:           0.5em solid white;
+   border-radius:    15px;
+   padding:          0.5em;
+
+   text-align:       center;
+   max-height:       250px;
+   text-align:       center;
+}
+
+#banner-topcontent img {
+   max-width:        100%;
+}
+
+#topcontent h1 {
+   text-align:       center;
+   font-size:        2em;
+}
+
+#topcontent img {
+   position:         absolute;
+   right:            0em;
+}
+
+div.banner_image {
+   margin:           0.5em;
+}
+
+div.banner_image img {
+   width:            100%;
+}

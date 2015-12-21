@@ -1,0 +1,76 @@
+/*
+ * Navigation links
+ */
+
+.menu.left {
+   width:            6em;
+}
+
+#nav {
+   margin-top:       1em;
+   margin-bottom:    1em;
+   width:            100%;
+}
+
+#nav ul {
+   padding-left:     0;
+
+   line-height:      1;
+   list-style:       none;
+   display:          inline;
+}
+
+#nav ul li {
+   display:          inline-block;
+}
+
+#nav span {
+   width:            6em; /* set for nav in menu */
+   padding:          0.5em 1em;
+
+   display:          table-cell;
+   background-color: #FFDD88;
+   font-variant:     small-caps;
+   font-weight:      bold;
+}
+
+#nav img {
+   margin-right:     0.5em;
+   vertical-align:   middle;
+   float:            right;
+}
+
+/* Mobile devices */
+@media screen and (max-device-width: 720px ) {
+   div.menu.left {
+      width:         100%;
+   }
+
+   div.menu.right {
+      width:         100%;
+   }
+
+   #nav ul li {
+      display:       list-item;
+      margin-bottom: 0.5em;
+   }
+
+   #nav span {
+      border-radius: 8px;
+      text-align:    center;
+      width:         auto;
+      display:       block;
+      margin:        0.25em;
+   }
+
+   #nav img {
+      margin-bottom: 0.5em;
+      width:         48px;
+      height:        48px;
+   }
+
+   #centrecontent {
+      clear:         right;
+   }
+
+}

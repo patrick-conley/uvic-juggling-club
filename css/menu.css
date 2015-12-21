@@ -1,0 +1,49 @@
+/*
+ * Page menus
+ */
+
+@import "links.css";
+
+.menu {
+   position:         absolute;
+   top:              0;
+}
+
+.menu.right {
+   right:            0;
+   width:            20em;
+}
+
+#news {
+   margin-bottom:    1em;
+   margin-left:      1em; /* left for news in right menu */
+   height:           600px;
+   padding:          0.5em;
+
+   background-color: white;
+}
+
+#news h3 {
+   margin:           0;
+   background-color: #FFDD88;
+}
+
+.menu #news p {
+   font-size:        small;
+}
+
+/* Mobile devices */
+@media screen and (max-device-width: 720px ) {
+   .menu {
+      position:      static;
+      width:         100%;
+   }
+
+   #div.menu.right {
+      width:         100%;
+   }
+
+   #news {
+      margin-right:  0;
+   }
+}

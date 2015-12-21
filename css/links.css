@@ -1,0 +1,37 @@
+/*
+ * List of links appearing in a menu
+ */
+
+#links {
+   width:            18em;
+   padding:          0.5em;
+
+   background-color: white;
+   font-family:      sans-serif;
+   line-height:      1.25em;
+}
+
+#links h2 {
+   margin-top:       0;
+
+   text-align:       center;
+   background-color: #FFDD88;
+   font-size:        small;
+}
+
+#links a {
+   font-size:        small;
+}
+
+#links h3 {
+   font-size:        medium;
+}
+
+/* Mobile devices */
+@media screen and (max-device-width: 720px ) {
+   #links {
+      position:      static;
+      margin-top:    1em;
+      width:         auto;
+   }
+}

@@ -1,0 +1,16 @@
+#horizontal_linklist {
+   margin-bottom:    1.5em;
+
+   background-color: #FFDD88;
+   font-variant:     small-caps;
+   font-weight:      bold;
+   text-align:       center;
+}
+
+#body td.image_column {
+   width:        30%;
+}
+
+.image_column img {
+   max-width: 100%;
+}
