@@ -44,7 +44,7 @@
             </p>
 
             <p>
-            The festival will include <s>two</s> and a half days of workshops, from
+            The festival will include two and a half days of workshops, from
             introductory to advanced levels; a renegade show, and a
             not-to-be-missed gala show. 
             </p>
