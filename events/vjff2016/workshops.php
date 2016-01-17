@@ -35,8 +35,6 @@
             <!-- BODY -->
             <h2>Workshops</h2>
 
-            Got an itch to teach some tricks?  <a href="https://docs.google.com/forms/d/1N7xq_MWP-OlGzUZWL0eFtHoNQfgBZ7b07QFXK-rGU00/viewform">Apply now!</a>
-
          </div>
 
       </div>

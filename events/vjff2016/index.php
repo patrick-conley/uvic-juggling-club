@@ -50,7 +50,7 @@
             </p>
 
             <p>
-            The festival is planned for the 12th to 14th February, 2016. Watch this space for updates.
+            The festival takes place the 12th to 14th of February.
 
             <p>
             <a href="mailto:juggling@uvic.ca">Contact the club</a> for more

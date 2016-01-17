@@ -34,8 +34,6 @@
             <!-- BODY -->
             <h2>Public show</h2>
 
-            Got an act to show us? <a href="https://docs.google.com/forms/d/14pWjF9sGB0Wjx6OyWHOdj9BRl1ldQ9vpposK_R-szl8/viewform">Apply now!</a>
-
             <hr>
 
             <p>
