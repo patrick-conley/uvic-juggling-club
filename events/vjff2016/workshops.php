@@ -35,6 +35,9 @@
             <!-- BODY -->
             <h2>Workshops</h2>
 
+            <p>
+            Details will be announced shortly before the festival.
+
          </div>
 
       </div>
