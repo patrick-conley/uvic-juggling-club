@@ -10,6 +10,7 @@
       <link rel="stylesheet" type="text/css" href="stylesheet.css">
       <link rel="stylesheet" type="text/css" href="./schedule.css">
       <link rel="shortcut icon" href="http://web.uvic.ca/~juggling/images/favicon.ico">
+      <meta http-equiv='Refresh' content='0;schedule.php'>
 
       <title>Workshops | VJFF 2016</title>
    </head>
@@ -35,8 +36,7 @@
             <!-- BODY -->
             <h2>Workshops</h2>
 
-            <p>
-            Details will be announced shortly before the festival.
+            The full schedule is posted on <a href="https://free.eventbase.com/event/eventbase/victoria-juggle-and-flow-festival/">Eventbase</a>. 
 
          </div>
 

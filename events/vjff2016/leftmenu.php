@@ -6,8 +6,7 @@ Victoria, BC
 <div id="nav">
 
    <a href="./index.php"><span>Festival Home</span></a> 
-   <!--a href="./schedule.php"><span>Schedule</span></a--> 
-   <a href="./workshops.php"><span>Workshops</span></a> 
+   <a href="./schedule.php"><span>Schedule</span></a> 
    <a href="./tickets.php"><span>Tickets</span></a> 
    <a href="./show.php"><span>Public Show</span></a> 
    <a href="./volunteer.php"><span>Volunteer</span></a>

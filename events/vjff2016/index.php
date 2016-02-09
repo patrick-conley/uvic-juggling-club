@@ -37,6 +37,11 @@
                <iframe src="https://www.youtube.com/embed/elYNulAclFM?rel=0" frameborder="0" allowfullscreen></iframe>
 
             <p>
+            <strong>Attendees</strong>: see the 
+            <a href="http://online.pubhtml5.com/fisj/jfwi/#p=1">PDF guide</a> 
+            for details on travel, accommodations, and policies.
+
+            <p>
             The <strong>9th "kind of annual" Victoria Juggling and Flow
             Festival</strong>, hosted by the UVic Juggling Club, is here, and
             will be as spectacular a showcase of juggling and object
@@ -46,7 +51,9 @@
             <p>
             The festival will include two and a half days of workshops, from
             introductory to advanced levels; a renegade show, and a
-            not-to-be-missed gala show. 
+            not-to-be-missed gala show. Workshops and open space are held at 
+            UVic, in the McKinnon Gym; the gala show will be in the Esquimalt
+            High School theatre.
             </p>
 
             <p>
